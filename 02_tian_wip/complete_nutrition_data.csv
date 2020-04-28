@@ -382,14 +382,14 @@ kids_menu,kids pak chicken,209,411,10,3.1,NaN,NaN,2.3,55,3.2,6.8,23,kids_menu,su
 kids_menu,kids pak turkey,180,409,15,2.8,NaN,NaN,1.9,52,3.5,4.5,15,kids_menu,subway
 kids_menu,kids pak veggie,190,463,21,4,NaN,NaN,1.9,54,5.6,4.1,15,kids_menu,subway
 kids_menu,kids pak tuna,184,463,20,3.7,NaN,NaN,2.3,54,3.4,4.3,16,kids_menu,subway
-WHOPPER® SANDWICHES,WHOPPER® Sandwich,270,660,40.0,12.0,1.5,90,980,49,2,11,28,burger,burger_king
-WHOPPER® SANDWICHES,WHOPPER® Sandwich with Cheese,292,740,46.0,16.0,2.0,115,1340,50,2,11,32,burger,burger_king
-WHOPPER® SANDWICHES,Bacon & Cheese WHOPPER® Sandwich,303,790,51.0,17.0,2.0,125,1560,50,2,11,35,burger,burger_king
-WHOPPER® SANDWICHES,DOUBLE WHOPPER® Sandwich,354,900,58.0,20.0,3.0,175,1050,49,2,11,48,burger,burger_king
-WHOPPER® SANDWICHES,DOUBLE WHOPPER® Sandwich with Cheese,377,980,64.0,24.0,3.0,195,1410,50,2,11,52,burger,burger_king
-WHOPPER® SANDWICHES,TRIPLE WHOPPER® Sandwich,438,1130,75.0,28.0,4.0,255,1120,49,2,11,67,burger,burger_king
-WHOPPER® SANDWICHES,TRIPLE WHOPPER® Sandwich with Cheese,461,1220,82.0,32.0,4.5,280,1470,50,2,11,71,burger,burger_king
-WHOPPER® SANDWICHES,WHOPPER JR.®,134,310,18.0,5.0,0.5,40,390,27,1,7,13,burger,burger_king
+WHOPPER® SANDWICHES,WHOPPER® Sandwich,270,660,40.0,12.0,1.5,90,980,49,2,11,28,sides,burger_king
+WHOPPER® SANDWICHES,WHOPPER® Sandwich with Cheese,292,740,46.0,16.0,2.0,115,1340,50,2,11,32,sides,burger_king
+WHOPPER® SANDWICHES,Bacon & Cheese WHOPPER® Sandwich,303,790,51.0,17.0,2.0,125,1560,50,2,11,35,sides,burger_king
+WHOPPER® SANDWICHES,DOUBLE WHOPPER® Sandwich,354,900,58.0,20.0,3.0,175,1050,49,2,11,48,sides,burger_king
+WHOPPER® SANDWICHES,DOUBLE WHOPPER® Sandwich with Cheese,377,980,64.0,24.0,3.0,195,1410,50,2,11,52,sides,burger_king
+WHOPPER® SANDWICHES,TRIPLE WHOPPER® Sandwich,438,1130,75.0,28.0,4.0,255,1120,49,2,11,67,sides,burger_king
+WHOPPER® SANDWICHES,TRIPLE WHOPPER® Sandwich with Cheese,461,1220,82.0,32.0,4.5,280,1470,50,2,11,71,sides,burger_king
+WHOPPER® SANDWICHES,WHOPPER JR.®,134,310,18.0,5.0,0.5,40,390,27,1,7,13,sides,burger_king
 FLAME BROILED BURGERS,BACON KING™ Sandwich,356,1150,79.0,31.0,3.5,240,2150,49,2,10,61,burger,burger_king
 FLAME BROILED BURGERS,Cheddar BACON KING™ Sandwich,366,1190,84.0,33.0,3.5,235,1930,50,2,11,64,burger,burger_king
 FLAME BROILED BURGERS,Single Quarter Pound KING™ Sandwich,231,580,29.0,13.0,1.5,105,1310,49,2,10,32,burger,burger_king
@@ -422,21 +422,21 @@ CHICKEN & MORE,Spicy Chicken Nuggets- 20 pc,330,1050,74.0,15.0,0.0,110,2840,56,9
 CHICKEN & MORE,Chicken Fries - 9 pc.,91,280,17.0,2.5,0.0,35,850,20,1,1,13,burger,burger_king
 CHICKEN & MORE,Crispy Taco,76,170,9.0,3.0,0.0,10,410,19,2,1,5,burger,burger_king
 CHICKEN & MORE,BIG FISH™ Sandwich,188,510,28.0,4.5,0.0,30,1180,51,2,7,16,burger,burger_king
-salad,Garden Chicken Salad with Crispy Chicken - no dressing,287,440,25.0,7.0,0.0,75,930,31,3,4,25,sauce,burger_king
-salad,Club Salad with Crispy Chicken - no dressing,308,540,33.0,10.0,0.0,95,1380,31,3,5,31,sauce,burger_king
-salad,Garden Side Salad - w/o dressing,99,60,4.0,2.5,0.0,10,95,3,1,2,4,sauce,burger_king
-sauce,Ken's Ranch Dressing,43,260,28.0,4.0,0.0,10,240,2,0,2,1,salad,burger_king
-sauce,Ken's Golden Italian Dressing,43,160,17.0,2.5,0.0,0,380,4,0,3,0,salad,burger_king
-sauce,Ken's Lite Honey Balsamic Vinaigrette,43,120,8.0,1.0,0.0,0,220,14,0,11,0,salad,burger_king
+salad,Garden Chicken Salad with Crispy Chicken - no dressing,287,440,25.0,7.0,0.0,75,930,31,3,4,25,salad,burger_king
+salad,Club Salad with Crispy Chicken - no dressing,308,540,33.0,10.0,0.0,95,1380,31,3,5,31,salad,burger_king
+salad,Garden Side Salad - w/o dressing,99,60,4.0,2.5,0.0,10,95,3,1,2,4,salad,burger_king
+sauce,Ken's Ranch Dressing,43,260,28.0,4.0,0.0,10,240,2,0,2,1,sauce,burger_king
+sauce,Ken's Golden Italian Dressing,43,160,17.0,2.5,0.0,0,380,4,0,3,0,sauce,burger_king
+sauce,Ken's Lite Honey Balsamic Vinaigrette,43,120,8.0,1.0,0.0,0,220,14,0,11,0,sauce,burger_king
 extra,Buttery Garlic Croutons- Packet,14,60,2.5,0.0,0.0,10,180,9,0,1,1,extra,burger_king
-sides,Onion Rings - value,43,150,8.0,1.5,0.0,0,400,19,1,2,1,sides,burger_king
-sides,Onion Rings - small,91,320,16.0,3.0,0.0,0,840,41,3,4,3,sides,burger_king
-sides,Onion Rings - medium,117,410,21.0,3.5,0.0,0,1080,53,4,5,4,sides,burger_king
-sides,Onion Rings - large,142,500,25.0,4.5,0.0,0,1310,64,5,7,5,sides,burger_king
-sides,French Fries - value (unsalted),89,220,9.0,1.5,0.0,0,210,34,3,1,2,sides,burger_king
-sides,French Fries - small (unsalted),128,320,13.0,2.0,0.0,0,300,49,5,1,4,sides,burger_king
-sides,French Fries - medium (unsalted),153,380,16.0,2.0,0.0,0,360,58,6,1,4,sides,burger_king
-sides,French Fries - large (unsalted),173,430,18.0,2.5,0.0,0,410,66,7,2,5,sides,burger_king
+sides,Onion Rings - value,43,150,8.0,1.5,0.0,0,400,19,1,2,1,burger,burger_king
+sides,Onion Rings - small,91,320,16.0,3.0,0.0,0,840,41,3,4,3,burger,burger_king
+sides,Onion Rings - medium,117,410,21.0,3.5,0.0,0,1080,53,4,5,4,burger,burger_king
+sides,Onion Rings - large,142,500,25.0,4.5,0.0,0,1310,64,5,7,5,burger,burger_king
+sides,French Fries - value (unsalted),89,220,9.0,1.5,0.0,0,210,34,3,1,2,burger,burger_king
+sides,French Fries - small (unsalted),128,320,13.0,2.0,0.0,0,300,49,5,1,4,burger,burger_king
+sides,French Fries - medium (unsalted),153,380,16.0,2.0,0.0,0,360,58,6,1,4,burger,burger_king
+sides,French Fries - large (unsalted),173,430,18.0,2.5,0.0,0,410,66,7,2,5,burger,burger_king
 KING JR™ MEALS,Kids Oatmeal,167,170,3.0,1.5,0.0,5,260,32,3,12,4,kids_menu,burger_king
 KING JR™ MEALS,Chicken Nuggets- 4pc,58,170,11.0,1.5,0.0,25,310,11,1,0,8,kids_menu,burger_king
 KING JR™ MEALS,Chicken Nuggets- 6pc,88,260,16.0,2.5,0.0,35,470,16,1,0,12,kids_menu,burger_king
