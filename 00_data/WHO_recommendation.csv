@@ -1,0 +1,5 @@
+sex,age,calories_kcal,total_fat_g,saturated_fat_g,cholesterol_mg,sodium_mg,carbohydrates_g,dietary_fiber_g,sugars_g,protein_g
+Male,25 - 51,2700,78,20,313,1500,275,30,50,57
+Female,25 - 51,2100,78,20,313,1500,275,30,50,48
+Male,7 - 10 years,1900,39,10,156,750,138,15,25,26
+Female,7 - 10 years,1800,39,10,156,750,138,15,25,26

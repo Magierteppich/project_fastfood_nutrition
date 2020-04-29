@@ -1,0 +1,37 @@
+sex,age,nutrition_indicator,rec. daily intake
+Female,25 - 51,calories_kcal,2100
+Female,25 - 51,total_fat_g,78
+Female,25 - 51,saturated_fat_g,20
+Female,25 - 51,cholesterol_mg,313
+Female,25 - 51,sodium_mg,1500
+Female,25 - 51,carbohydrates_g,275
+Female,25 - 51,dietary_fiber_g,30
+Female,25 - 51,sugars_g,50
+Female,25 - 51,protein_g,48
+Female,7 - 10 years,calories_kcal,1800
+Female,7 - 10 years,total_fat_g,39
+Female,7 - 10 years,saturated_fat_g,10
+Female,7 - 10 years,cholesterol_mg,156
+Female,7 - 10 years,sodium_mg,750
+Female,7 - 10 years,carbohydrates_g,138
+Female,7 - 10 years,dietary_fiber_g,15
+Female,7 - 10 years,sugars_g,25
+Female,7 - 10 years,protein_g,26
+Male,25 - 51,calories_kcal,2700
+Male,25 - 51,total_fat_g,78
+Male,25 - 51,saturated_fat_g,20
+Male,25 - 51,cholesterol_mg,313
+Male,25 - 51,sodium_mg,1500
+Male,25 - 51,carbohydrates_g,275
+Male,25 - 51,dietary_fiber_g,30
+Male,25 - 51,sugars_g,50
+Male,25 - 51,protein_g,57
+Male,7 - 10 years,calories_kcal,1900
+Male,7 - 10 years,total_fat_g,39
+Male,7 - 10 years,saturated_fat_g,10
+Male,7 - 10 years,cholesterol_mg,156
+Male,7 - 10 years,sodium_mg,750
+Male,7 - 10 years,carbohydrates_g,138
+Male,7 - 10 years,dietary_fiber_g,15
+Male,7 - 10 years,sugars_g,25
+Male,7 - 10 years,protein_g,26
