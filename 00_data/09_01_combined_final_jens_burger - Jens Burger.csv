@@ -1,0 +1,30 @@
+chain,category_clean,item_name,serve_size,serve_size_unit,nutrition_indicator,value_per_serving
+jens,burger,homemade burger,"250,00",g,calories_kcal,768
+jens,burger,homemade burger,"250,00",g,total_fat_g,22
+jens,burger,homemade burger,"250,00",g,saturated_fat_g,0
+jens,burger,homemade burger,"250,00",g,trans_fat_g,0
+jens,burger,homemade burger,"250,00",mg,cholesterol_mg,0
+jens,burger,homemade burger,"250,00",mg,sodium_mg,520
+jens,burger,homemade burger,"250,00",g,carbohydrates_g,71
+jens,burger,homemade burger,"250,00",g,dietary_fiber_g,0
+jens,burger,homemade burger,"250,00",g,sugars_g,5
+jens,burger,homemade burger,"250,00",g,protein_g,37
+jens,pommes,jens pommes,"111,00",g,calories_kcal,172
+jens,pommes,jens pommes,"111,00",g,total_fat_g,15
+jens,pommes,jens pommes,"111,00",g,saturated_fat_g,0
+jens,pommes,jens pommes,"111,00",g,trans_fat_g,0
+jens,pommes,jens pommes,"111,00",mg,cholesterol_mg,0
+jens,pommes,jens pommes,"111,00",mg,sodium_mg,333
+jens,pommes,jens pommes,"111,00",g,carbohydrates_g,38
+jens,pommes,jens pommes,"111,00",g,dietary_fiber_g,0
+jens,pommes,jens pommes,"111,00",g,sugars_g,0
+jens,pommes,jens pommes,"111,00",g,protein_g,4
+jens,beverage,Coca-Cola Classic (Medium),"596,67",ml,calories_kcal,200
+jens,beverage,Coca-Cola Classic (Medium),"596,67",ml,total_fat_g,0
+jens,beverage,Coca-Cola Classic (Medium),"596,67",ml,saturated_fat_g,0
+jens,beverage,Coca-Cola Classic (Medium),"596,67",ml,cholesterol_mg,0
+jens,beverage,Coca-Cola Classic (Medium),"596,67",ml,sodium_mg,5
+jens,beverage,Coca-Cola Classic (Medium),"596,67",ml,carbohydrates_g,55
+jens,beverage,Coca-Cola Classic (Medium),"596,67",ml,dietary_fiber_g,0
+jens,beverage,Coca-Cola Classic (Medium),"596,67",ml,sugars_g,55
+jens,beverage,Coca-Cola Classic (Medium),"596,67",ml,protein_g,0
