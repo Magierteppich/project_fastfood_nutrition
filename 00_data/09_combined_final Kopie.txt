@@ -2684,8 +2684,8 @@ Burger King,beverage,Coca Cola classic - (xl),"1.079,70",ml,protein_g,0
 Burger King,beverage,Diet Coke - (large),"823,98",ml,calories_kcal,0
 Burger King,beverage,Diet Coke - (large),"823,98",ml,total_fat_g,0
 Burger King,beverage,Diet Coke - (large),"823,98",ml,saturated_fat_g,0
-Burger King,beverage,Diet Coke - (large),"823,98",ml,cholesterol_mg,0
-Burger King,beverage,Diet Coke - (large),"823,98",ml,sodium_mg,120
+Burger King,beverage,Diet Coke - (large),"823,98",ml,cholesterol_mg,120
+Burger King,beverage,Diet Coke - (large),"823,98",ml,sodium_mg,0
 Burger King,beverage,Diet Coke - (large),"823,98",ml,carbohydrates_g,0
 Burger King,beverage,Diet Coke - (large),"823,98",ml,dietary_fiber_g,0
 Burger King,beverage,Diet Coke - (large),"823,98",ml,sugars_g,0
@@ -2693,8 +2693,8 @@ Burger King,beverage,Diet Coke - (large),"823,98",ml,protein_g,0
 Burger King,beverage,Diet Coke - (medium),"568,26",ml,calories_kcal,0
 Burger King,beverage,Diet Coke - (medium),"568,26",ml,total_fat_g,0
 Burger King,beverage,Diet Coke - (medium),"568,26",ml,saturated_fat_g,0
-Burger King,beverage,Diet Coke - (medium),"568,26",ml,cholesterol_mg,0
-Burger King,beverage,Diet Coke - (medium),"568,26",ml,sodium_mg,85
+Burger King,beverage,Diet Coke - (medium),"568,26",ml,cholesterol_mg,85
+Burger King,beverage,Diet Coke - (medium),"568,26",ml,sodium_mg,0
 Burger King,beverage,Diet Coke - (medium),"568,26",ml,carbohydrates_g,0
 Burger King,beverage,Diet Coke - (medium),"568,26",ml,dietary_fiber_g,0
 Burger King,beverage,Diet Coke - (medium),"568,26",ml,sugars_g,0
@@ -2702,8 +2702,8 @@ Burger King,beverage,Diet Coke - (medium),"568,26",ml,protein_g,0
 Burger King,beverage,Diet Coke - (small),"454,61",ml,calories_kcal,0
 Burger King,beverage,Diet Coke - (small),"454,61",ml,total_fat_g,0
 Burger King,beverage,Diet Coke - (small),"454,61",ml,saturated_fat_g,0
-Burger King,beverage,Diet Coke - (small),"454,61",ml,cholesterol_mg,0
-Burger King,beverage,Diet Coke - (small),"454,61",ml,sodium_mg,70
+Burger King,beverage,Diet Coke - (small),"454,61",ml,cholesterol_mg,70
+Burger King,beverage,Diet Coke - (small),"454,61",ml,sodium_mg,0
 Burger King,beverage,Diet Coke - (small),"454,61",ml,carbohydrates_g,0
 Burger King,beverage,Diet Coke - (small),"454,61",ml,dietary_fiber_g,0
 Burger King,beverage,Diet Coke - (small),"454,61",ml,sugars_g,0
@@ -2711,8 +2711,8 @@ Burger King,beverage,Diet Coke - (small),"454,61",ml,protein_g,0
 Burger King,beverage,Diet Coke - (xl),"1.079,70",ml,calories_kcal,0
 Burger King,beverage,Diet Coke - (xl),"1.079,70",ml,total_fat_g,0
 Burger King,beverage,Diet Coke - (xl),"1.079,70",ml,saturated_fat_g,0
-Burger King,beverage,Diet Coke - (xl),"1.079,70",ml,cholesterol_mg,0
-Burger King,beverage,Diet Coke - (xl),"1.079,70",ml,sodium_mg,160
+Burger King,beverage,Diet Coke - (xl),"1.079,70",ml,cholesterol_mg,160
+Burger King,beverage,Diet Coke - (xl),"1.079,70",ml,sodium_mg,0
 Burger King,beverage,Diet Coke - (xl),"1.079,70",ml,carbohydrates_g,0
 Burger King,beverage,Diet Coke - (xl),"1.079,70",ml,dietary_fiber_g,0
 Burger King,beverage,Diet Coke - (xl),"1.079,70",ml,sugars_g,0
